@@ -13,6 +13,7 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 ## Circuit Components
 
 ### Key Components
+
 - **VR1 (XL6009):** Main DC-DC converter IC
 - **L1, L3 (33μH):** Input/switching inductors for energy storage
 - **L2 (33μH):** Output filter inductor
@@ -27,6 +28,7 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 ## Pin Configuration
 
 **XL6009 IC Pinout:**
+
 1. GND - Ground
 2. EN - Enable (active high)
 3. SW - Switching output
@@ -38,6 +40,10 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 
 - **P1 (Header 2):** Input power connector (VIN, GND)
 - **P2 (Header 2):** Output power connector (VOUT, GND)
+
+## Board Layout
+
+![Board Layout](.\Documents\XL6009.png)
 
 ## Usage
 
@@ -56,6 +62,7 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 ## Safety Warnings
 
 ⚠️ **Do not exceed maximum ratings:**
+
 - Input voltage: 32V max
 - Output voltage: 35V max
 - Ensure proper heatsinking for high current applications
