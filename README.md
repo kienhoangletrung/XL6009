@@ -43,7 +43,7 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 
 ## Board Layout
 
-![Board Layout](./Documents/XL6009.png)
+![Board Layout](./Board.png)
 
 ## Usage
 
