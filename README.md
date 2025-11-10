@@ -70,5 +70,5 @@ A DC-DC step-up (boost) converter circuit based on the XL6009 chip, capable of c
 
 ---
 
-**Date:** November 6, 2025  
+**Designer: HOÀNG LÊ TRUNG KIÊN
 **Version:** 1.0
